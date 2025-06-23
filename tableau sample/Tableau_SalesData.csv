@@ -1,0 +1,7 @@
+Order ID,Order Date,Region,Category,Sales,Profit,Revenue
+1001,2024-01-05,North,Furniture,1500,300,1800
+1002,2024-01-07,South,Technology,2300,400,2700
+1003,2024-01-09,East,Office Supplies,500,50,550
+1004,2024-01-10,West,Furniture,1700,250,1950
+1005,2024-01-12,North,Technology,2100,370,2470
+1006,2024-01-15,South,Office Supplies,800,90,890
